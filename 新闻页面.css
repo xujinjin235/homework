@@ -1,0 +1,32 @@
+body {
+    font: 16px/28px "Micrsoft YaHei";
+}
+h1 {
+    font-weight: 400;
+    text-align: center;
+}
+.gray {
+    color: #88888888;
+    font-size: 12px;
+    text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.search {
+    color: #666666;
+}
+.btn {
+    font-weight: 400;
+}
+p {
+    text-indent: 2em;
+}
+.pic {
+    text-align: center;
+}
+.foot {
+    color: #88888888;
+    font-size: 12px;
+    text-align: left;
+}
